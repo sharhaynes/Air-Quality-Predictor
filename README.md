@@ -6,22 +6,6 @@ This project applies ensemble machine learning models and data augmentation tech
 
 ---
 
-## Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Getting Started](#-getting-started)
-- [Dataset](#-dataset)
-- [Model Architecture](#-model-architecture)
-- [Results](#-results)
-- [Project Structure](#-project-structure)
-- [Contributors](#-contributors)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
 ## About the Project
 
 Air quality forecasting in the Caribbean is particularly challenging due to **sparse monitoring infrastructure** and **limited historical data**. Standard machine learning models trained on small datasets often suffer from overfitting and poor generalisation.
